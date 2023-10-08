@@ -4,7 +4,7 @@ import matplotlib as plt
 import codecs as cd
 
 member_map = {1:"A山B夫"}
-# 三年男子→三年女子→二年男子→...の順で書く(ID=14、氏名=A山B夫の場合、14:"A山B夫"と書く)
+# 三年男子→三年女子→二年男子→...の順で書く (ID=14、氏名=A山B夫の場合、14:"A山B夫"と書く)
 
 grade_map = {1:3}
 #1,2,3は学年を表す　(ID=14、一年生の場合、14:1と書く)
